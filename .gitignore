@@ -1,3 +1,4 @@
 *.o
 *.bin
 /simple_echo
+/.vscode

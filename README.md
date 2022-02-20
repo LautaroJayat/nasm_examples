@@ -9,6 +9,6 @@ Just some things in nasm
 
 ## Examples
 
-* [**Hello world**](./hello_world) -> just a prints a "hello world" message to the console
-* [**Add two numbers**](./add_two_numbers) -> adds two hardcoded numbers together and then it prints the result to the console
-* [**Read user input**](./read_user_input) -> prompts a user and then prints the string provided
+* [**Hello world**](./hello_world/hello_world.asm) -> just a prints a "hello world" message to the console
+* [**Add two numbers**](./add_two_numbers/add_two_numbers.asm) -> adds two hardcoded numbers together and then it prints the result to the console
+* [**Read user input**](./read_user_input/read_user_input.asm) -> prompts a user and then prints the string provided

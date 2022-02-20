@@ -1,5 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/ljayat/nasm'
-ld  -m elf_i386    -o test
-make: Leaving directory '/home/ljayat/nasm'
- 
